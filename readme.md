@@ -1,20 +1,18 @@
+# Backend do Portfolio.
+##### Usei o NodeJs para desenvolver o Backend do meu portfólio-site.
 
-//Entities
-   - [] Project
-      Created_at
-      Updated_at
-      Image
-      Title
-      Describe
-      Domain
-      Github
+## Linguagens usadas:  
+<div style="display: inline_block;">
+   <img alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
 
+<br>
+  
+ #### Parte um
+![Preview](https://github.com/progjoao/myportfolio/blob/master/assets/images/preview.jpeg)
 
-
-- [] Create
-- [] Read
-- [] Update
-- [] Delete
-
+ #### Parte dois
+![Preview](https://github.com/progjoao/myportfolio/blob/master/assets/images/preview_2.jpeg)
 
 
