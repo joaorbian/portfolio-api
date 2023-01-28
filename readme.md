@@ -1,5 +1,5 @@
-# Backend do Portfolio.
-##### Usei o NodeJs para desenvolver o Backend do meu portfólio-site.
+# Backend Portfolio.
+##### Usei o NodeJs para desenvolver o Backend do meu portfólio.
 
 ## Linguagens usadas:  
 <div style="display: inline_block;">
